@@ -1,0 +1,54 @@
+textarea{
+  resize: none;
+  width: 400px;
+  height: 100px;
+  display:
+}
+p{
+  margin: 0;
+}
+.mainLabel{
+  display: block;
+}
+.rowDiv{
+  margin-bottom: 20px;
+}
+.collDivLeft{
+  width: 200px;
+  display: inline-block;
+}
+.labelRadio{
+  float: left;
+  margin-right: 20px;
+}
+.collDivRight{
+  width: max-content;
+  display: inline-block;
+}
+.alert{
+  width: max-content;
+  display: inline-block;
+  margin-left: 30px;
+  color: red;
+}
+input[type='radio']{
+  float: left;
+}
+.longtext{
+  width: 300px;
+}
+.shorttext{
+  width: 200px;
+}
+.number{
+  width: 100px;
+}
+.combo{
+  width: 200px;
+}
+.wrong{
+  border: 2px solid red;
+}
+.right{
+  border: 2px solid green;
+}
